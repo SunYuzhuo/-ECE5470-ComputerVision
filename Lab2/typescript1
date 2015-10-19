@@ -1,0 +1,33 @@
+Script started on Tue 15 Sep 2015 11:30:29 PM EDT
+student has logged on :0 from :0.
+student has logged on pts/0 from :0.
+student has logged on pts/1 from local.
+student has logged on pts/2 from local.
+ECE5470:~/lab2 [11:30pm] 73$tevppr exitbound mine.vx | vppr[29Gexitexitbound mine.vx | vppr[29Gvppr mine.vx testim3.vx
+      0   1   2   3   4   5   6   7   8   9
+  9   0   0   0   0   0   0   0   0   0   0
+  8   0 255 255 255 255   0   0   0   0   0
+  7   0   0   0   0 255   0   0   0   0   0
+  6   0 255 255   0 255 255   0   0 255   0
+  5   0 255 255   0 255 255   0   0 255   0
+  4   0 255 255   0   0   0   0   0 255   0
+  3   0 255 255   0   0 255 255 255 255   0
+  2   0   0   0   0 255 255   0   0   0   0
+  1   0   0   0 255   0   0 255 255 255   0
+  0   0   0   0   0   0   0 255 255 255   0
+ECE5470:~/lab2 [11:30pm] 74$cclabel testim3.vx | vppr
+      0   1   2   3   4   5   6   7   8   9
+  9   0   0   0   0   0   0   0   0   0   0
+  8   0   5   5   5   5   0   0   0   0   0
+  7   0   0   0   0   5   0   0   0   0   0
+  6   0   4   4   0   5   5   0   0   3   0
+  5   0   4   4   0   5   5   0   0   3   0
+  4   0   4   4   0   0   0   0   0   3   0
+  3   0   4   4   0   0   3   3   3   3   0
+  2   0   0   0   0   3   3   0   0   0   0
+  1   0   0   0   2   0   0   1   1   1   0
+  0   0   0   0   0   0   0   1   1   1   0
+ECE5470:~/lab2 [11:31pm] 75$extit
+exit
+
+Script done on Tue 15 Sep 2015 11:31:56 PM EDT

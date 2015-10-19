@@ -1,0 +1,25 @@
+Script started on Mon 28 Sep 2015 10:25:29 PM EDT
+student has logged on :0 from :0.
+student has logged on pts/0 from :0.
+student has logged on pts/1 from local.
+ECE5470:~/lab3 [10:25pm] 146$vppr small.nxx
+      0   1   2   3   4   5   6
+  5   0 255 255   0   0   0   0
+  4 255 128 128 255   0   0   0
+  3   0 255 128 255 255 255   0
+  2   0   0 255 255 128 128 255
+  1   0   0 255 128 128 128 255
+  0   0   0   0 255 255 255 128
+ECE5470:~/lab3 [10:25pm] 147$vppr small.mx[31Gits mp.vx of=mp_2.vx[31Gcc vits.c -o vits[31Gits mp.vx of=mp_2.vx[31Gppr small.mx[30Gvppr small.mx[31Gits mp.vx of=mp_2.vxaall.mx | vppr
+Break at 1,104
+      0   1   2   3   4   5   6
+  5   0 255 255   0   0   0   0
+  4 255 255 255 255   0   0   0
+  3   0 255 255 255 255 255   0
+  2   0   0 255 255 255 255 255
+  1   0   0 255 255 255 255 255
+  0   0   0   0 255 255 255 255
+ECE5470:~/lab3 [10:25pm] 148$exit
+exit
+
+Script done on Mon 28 Sep 2015 10:26:08 PM EDT

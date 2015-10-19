@@ -1,0 +1,38 @@
+Script started on Tue 15 Sep 2015 10:39:10 PM EDT
+student has logged on :0 from :0.
+student has logged on pts/0 from :0.
+student has logged on pts/1 from local.
+student has logged on pts/2 from local.
+ECE5470:[4m~/lab2[24m [7m[10:39pm][27m [1m71$[0ms[Kvcc bou
+
+bound*    bound.c~  bound.c   
+
+ECE5470:[4m~/lab2[24m [7m[10:39pm][27m [1m71$[0mvcc bound.c [K[K[K[K[K[K[K[K[K[Kvcc bound.c -o bound
+
+ECE5470:[4m~/lab2[24m [7m[10:40pm][27m [1m72$[0mbound mine.
+
+mine.a   mine.vx  
+
+ECE5470:[4m~/lab2[24m [7m[10:40pm][27m [1m72$[0mbound mine.vx [K[K[K[K[K[K[K[K[K[K[K[Kvppr mine.vx
+
+      0   1   2   3   4   5   6
+  5   0   0   0   0   0   0   0
+  4   0   1   1   0   0   0   0
+  3   0   0   1   0   0   0   0
+  2   0   0   0   0   3   3   0
+  1   0   0   0   3   3   3   0
+  0   0   0   0   0   0   0   8
+ECE5470:[4m~/lab2[24m [7m[10:41pm][27m [1m73$[0mvcc[K[K[Kbound vppr[K[K[K[Kmine.vx | vppr
+
+      0   1   2   3   4   5   6
+  5   0 255 255   0   0   0   0
+  4 255 128 128 255   0   0   0
+  3   0 255 128 255 255 255   0
+  2   0   0 255 255 128 128 255
+  1   0   0 255 128 128 128 255
+  0   0   0   0 255 255 255 128
+ECE5470:[4m~/lab2[24m [7m[10:41pm][27m [1m74$[0mexit
+
+exit
+
+Script done on Tue 15 Sep 2015 10:41:54 PM EDT

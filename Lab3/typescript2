@@ -1,0 +1,33 @@
+Script started on Tue 29 Sep 2015 03:48:06 AM EDT
+student has logged on :0 from :0.
+student has logged on pts/1 from :0.
+student has logged on pts/2 from local.
+student has logged on pts/3 from local.
+ECE5470:~/lab3 [3:48am] 204$vppr small.mx[30Ggrow small.mx r=100 | vppr[36Ghtl.vx r=50 of=shtl_5_t.vx[48G[3@-p [61Gf.vx[45G20 -p of=shtl_2_t.vx[48G[58Gf.vx[48G[3@-p [61Gt.vx[45G50 -p of=shtl_5_f.vx[48G[58Gt.vx[36Gmall.mx r=100 | vppr[30Gppr small.mx[29Gvppr small.mx
+      0   1   2   3   4   5   6
+  5   0 255 255   0   0   0   0
+  4 255 128 128 255   0   0   0
+  3   0 255 128 255 255 255   0
+  2   0   0 255 255 128 128 255
+  1   0   0 255 128 128 128 255
+  0   0   0   0 255 255 255 128
+ECE5470:~/lab3 [3:48am] 205$vppr small.mx[30Ggrow small.mx r=100 | vppr[36Ghtl.vx r=50 of=shtl_5_t.vx[48G[3@-p [61Gf.vx[45G20 -p of=shtl_2_t.vx[48G[58Gf.vx[29Gpatcheval mp.vx[29Gvgrow shtl.vx r=20 of=shtl_2_f.vx[48G[3@-p [61Gt.vx[45G50 -p of=shtl_5_f.vx[48G[58Gt.vx[36Gmall.mx r=100 | vppr[P[P28
+      0   1   2   3   4   5   6
+  5   0   1   1   0   0   0   0
+  4   1   1   1   1   0   0   0
+  3   0   1   1   1   1   1   0
+  2   0   0   1   1   1   1   1
+  1   0   0   1   1   1   1   1
+  0   0   0   0   1   1   1   1
+ECE5470:~/lab3 [3:48am] 206$vgrow small.mx r=128 | vppr[P[P00
+      0   1   2   3   4   5   6
+  5   0   9   9   0   0   0   0
+  4   8   7   7   3   0   0   0
+  3   0   6   7   3   3   3   0
+  2   0   0   3   3   4   4   5
+  1   0   0   3   4   4   4   5
+  0   0   0   0   1   1   1   2
+ECE5470:~/lab3 [3:48am] 207$exit
+exit
+
+Script done on Tue 29 Sep 2015 03:48:46 AM EDT
